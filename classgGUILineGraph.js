@@ -17,9 +17,9 @@ var classgGUILineGraph =
     [ "setLabelCountY", "classgGUILineGraph.html#a375ce9b0f75a373b8039d01adef007a1", null ],
     [ "setLineColor", "classgGUILineGraph.html#a576036f6e1289c21819f6663f29708f0", null ],
     [ "setMaxX", "classgGUILineGraph.html#aa9c0adeb3bfadba568002a4a0053af09", null ],
-    [ "setMaxY", "classgGUILineGraph.html#a043a0483dae7b22f29e8604a7113d6fb", null ],
+    [ "setMaxY", "classgGUILineGraph.html#a4eebdd06294e4dfa2840494a2dd8b0ba", null ],
     [ "setMinX", "classgGUILineGraph.html#a2a57264db15538bf5bf17d425cb15e8c", null ],
-    [ "setMinY", "classgGUILineGraph.html#abde5e1118ac3f48b431634b8c62910f3", null ],
+    [ "setMinY", "classgGUILineGraph.html#a58eed63d42c9d207a25e18854e89fa5b", null ],
     [ "setPointValues", "classgGUILineGraph.html#ae8a421bb6450a9be2b4bd897a5146346", null ],
     [ "setPointValues", "classgGUILineGraph.html#a9e57dabc2d1ec39d2ab715e9eb93a225", null ]
 ];
