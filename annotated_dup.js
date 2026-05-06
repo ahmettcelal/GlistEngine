@@ -148,6 +148,7 @@ var annotated_dup =
     [ "gRenderer", "classgRenderer.html", "classgRenderer" ],
     [ "gRenderObject", "classgRenderObject.html", "classgRenderObject" ],
     [ "gRoundedRectangle", "classgRoundedRectangle.html", "classgRoundedRectangle" ],
+    [ "gScreenSpaceReflections", "classgScreenSpaceReflections.html", "classgScreenSpaceReflections" ],
     [ "gSepiatone", "classgSepiatone.html", "classgSepiatone" ],
     [ "gShader", "classgShader.html", "classgShader" ],
     [ "gShadowMap", "classgShadowMap.html", "classgShadowMap" ],
